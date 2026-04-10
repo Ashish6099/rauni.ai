@@ -1,1 +1,12 @@
+# Never commit real secrets
+.env
+.env.local
+*.env
+secrets.txt
+config.local.js
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
 
